@@ -1,0 +1,2 @@
+char getHiddenChar();
+char getChar();
